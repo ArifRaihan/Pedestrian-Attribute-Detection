@@ -4,6 +4,8 @@ We address the pedestrian attribute recognition from far view images task as a m
 This work was done using the deep learning framework Tensorflow in the Google Colaboratory Jupyter Notebook Environment.
 A paper for this project has been published at ICCCNT 2019. The link is - https://ieeexplore.ieee.org/document/8944776
 
+Dataset - PETA (http://mmlab.ie.cuhk.edu.hk/projects/PETA.html)
+
 The following screenshots are some of the images from the paper
 
 
